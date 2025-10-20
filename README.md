@@ -32,13 +32,13 @@ RunwayHub
     repo/ 
     ├   docs/ # Документация проекта
     │   │
-    │   ├   contribution.md # Инструкция по работе с репозиторием
+    │   ├   CONTRIBUTING.md # Инструкция по работе с репозиторием
     │   │
     │   └   ... # Другие документы
     │
     ├   content/ # Рабочие артефакты
     │   │
-    │   ├   questionnaire.md # Анкета для заказчика
+    │   ├   questionnaire.pdf # Анкета для заказчика
     │   │
     │   └   ... # Другие файлы
     │
@@ -70,5 +70,6 @@ RunwayHub
 1. Склонируйте репозиторий:  
    ```bash
    git clone https://github.com/ваш-username/ваш-репозиторий.git
+
 
 
